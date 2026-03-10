@@ -18,3 +18,7 @@ python3 tools/release/update_manifests.py release_manifest.json
 ```
 
 Copy the rendered manifests from `packaging/out/scoop/` into this repo.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
